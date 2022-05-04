@@ -6,7 +6,7 @@ import processing.core.PImage;
  */
 
 public class Sketch extends PApplet {
-  // global variables
+  // global variables 
   PImage imgBasketballCourt;
   PImage imgSoccerField;
   PImage imgSoccerBall;
