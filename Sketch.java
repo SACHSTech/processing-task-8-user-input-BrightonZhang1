@@ -1,7 +1,7 @@
 import processing.core.PApplet;
 import processing.core.PImage;  
 /**
- * Description: 
+ * Description: This program lets you decide on what sport you would like to play
  * @author: B. Zhang
  */
 
